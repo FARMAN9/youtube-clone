@@ -4,7 +4,7 @@ A YouTube clone application built with React and Redux. This application aims to
 
 ## Features
 
-)
+
 - Video search functionality
 - Video playback
 
@@ -20,15 +20,22 @@ A YouTube clone application built with React and Redux. This application aims to
 - **React**: A JavaScript library for building user interfaces.
 - **Redux**: A predictable state container for JavaScript apps.
 - **React Router**: Declarative routing for React.
-- **Redux Thunk**: Middleware for Redux to handle asynchronous actions.
+
 - **Axios**: Promise based HTTP client for the browser and node.js.
-- **Material-UI**: React components for faster and easier web development.
-- **Firebase**: Backend as a Service (BaaS) for authentication and database.
+
 
 ## Installation
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/FARMAN9/youtube-clone.git
    cd youtube-clone
+   ```
+2. **start project:**
+   ```sh
+    npm i
+    npm run dev
+   ```   
+
+   
