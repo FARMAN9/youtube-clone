@@ -1,6 +1,6 @@
 # YouTube Clone
 
-A YouTube clone application built with React and Redux. This application aims to mimic the core functionalities of YouTube, including video playback, search, and user management.
+A YouTube clone application built with React and Redux. This application aims to mimic the core functionalities of YouTube, including video playback, search. 
 
 ## Features
 
@@ -11,7 +11,7 @@ A YouTube clone application built with React and Redux. This application aims to
 
 ## Screenshots
 
-![Home Page](./screenshots/home.png)
+![Home Page](snaps/snap1.png)
 ![Video Playback](./screenshots/video.png)
 ![Search Results](./screenshots/search.png)
 
