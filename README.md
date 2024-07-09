@@ -1,8 +1,34 @@
-# React + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A YouTube clone application built with React and Redux. This application aims to mimic the core functionalities of YouTube, including video playback, search, and user management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+)
+- Video search functionality
+- Video playback
+
+
+## Screenshots
+
+![Home Page](./screenshots/home.png)
+![Video Playback](./screenshots/video.png)
+![Search Results](./screenshots/search.png)
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Redux**: A predictable state container for JavaScript apps.
+- **React Router**: Declarative routing for React.
+- **Redux Thunk**: Middleware for Redux to handle asynchronous actions.
+- **Axios**: Promise based HTTP client for the browser and node.js.
+- **Material-UI**: React components for faster and easier web development.
+- **Firebase**: Backend as a Service (BaaS) for authentication and database.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/yourusername/youtube-clone.git
+   cd youtube-clone
