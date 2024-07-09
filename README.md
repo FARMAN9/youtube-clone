@@ -1,4 +1,4 @@
-# YouTube Clone
+# YouTube Clone ![](public/youtube.png)
 
 A YouTube clone application built with React and Redux. This application aims to mimic the core functionalities of YouTube, including video playback, search. 
 
