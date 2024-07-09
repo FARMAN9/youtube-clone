@@ -12,8 +12,8 @@ A YouTube clone application built with React and Redux. This application aims to
 ## Screenshots
 
 ![Home Page](snaps/snap1.png)
-![Video Playback](./screenshots/video.png)
-![Search Results](./screenshots/search.png)
+![Video Playback](snaps/snap2.png)
+![Search Results](snaps/snap3.png)
 
 ## Technologies Used
 
